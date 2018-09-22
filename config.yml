@@ -1,7 +1,7 @@
 logo_url: http://seafood.ocean.org/resources/assets/images/logos/newLogo--white@2x.png
 colors:
-  primary: #265A8D
-  secondary: #0091D0
-  default: #9E9E9E
-  white: #FFFFFF
-  black: #000000
+  primary: '#265A8D'
+  secondary: '#0091D0'
+  default: '#9E9E9E'
+  white: '#FFFFFF'
+  black: '#000000'
